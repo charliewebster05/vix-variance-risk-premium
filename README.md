@@ -15,4 +15,4 @@ Compares the VIX with the S&P 500 volatility that actually followed over the nex
 
 **Caveats:** overlapping windows, so observations aren't independent. Measures the premium, not a tradable strategy.
 
-**Files:** `vrp_analysis.ipynb` (code), `vrp_report.pdf` (write-up)
+**Files:** `Do options overprice volatility.ipynb` (code), `Do options overprice volatility.pdf` (write-up)
